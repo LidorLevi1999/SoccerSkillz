@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a46a669f86666f6c0dc640ffed0fd2c, type: 3}
+  m_Name: "Form2"
+  m_EditorClassIdentifier: 
+  list:
+  - {fileID: 1790035520051211820, guid: 8fd15298f7ecd2448a64c9dbdca7d9cb, type: 2}
+  - {fileID: 1790035520051211821, guid: f7b7b76ed931198469efb243691cfbd7, type: 2}
+  - {fileID: 1790035520051211821, guid: f8c6f86ba5f89664eb6c0f2e59cba895, type: 2}
+  - {fileID: 1790035520051211821, guid: f6e1049b43dd6db4bb58876ecb69b699, type: 2}
+  - {fileID: 1790035520051211821, guid: af866ee9f81983e4d881288d4b886174, type: 2}
+  - {fileID: 1790035520051211821, guid: 54d49a04901c1b24e95664680ec35eb3, type: 2}
+  - {fileID: 1790035520051211821, guid: 07d1960851ac78d49af947fb44e70c06, type: 2}

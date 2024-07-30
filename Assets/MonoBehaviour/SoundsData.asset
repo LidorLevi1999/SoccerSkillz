@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c45c2bdce9dac68a92c51665254c983, type: 3}
+  m_Name: "SoundsData"
+  m_EditorClassIdentifier: 
+  sounds:
+  - soundName: "none"
+    soundId: 0
+    clips:
+    - {fileID: 8300000, guid: 00a317cfffd34e4d86d0ef633d602abc, type: 3}
+  - soundName: "bg_loop_music"
+    soundId: 1
+    clips:
+    - {fileID: 8300000, guid: db20d3dbaa2a4de4be493d2619f6c9e9, type: 3}
+  - soundName: "crowd_ambiance_loop"
+    soundId: 2
+    clips:
+    - {fileID: 8300000, guid: aaaedfef9e1a4909a656c7dc14e0a452, type: 3}
+  - soundName: "start_music"
+    soundId: 3
+    clips:
+    - {fileID: 8300000, guid: dfa341063421463ba8eaec1fe3650c84, type: 3}
+  - soundName: "goal_keeper_jump"
+    soundId: 4
+    clips:
+    - {fileID: 8300000, guid: 85726c5c55dc4e5d8ea4795627412c59, type: 3}
+  - soundName: "player_slide"
+    soundId: 5
+    clips:
+    - {fileID: 8300000, guid: ee5db60b31fe4695ac1322a5ad2b3881, type: 3}
+  - soundName: "step"
+    soundId: 6
+    clips:
+    - {fileID: 8300000, guid: 8c8bc03c06b24ee88dcee91e789aadf8, type: 3}
+    - {fileID: 8300000, guid: b33c468be882462b804d04aed7dc32e9, type: 3}
+    - {fileID: 8300000, guid: 1b485975c5224c50b995415252e8b6f3, type: 3}
+    - {fileID: 8300000, guid: a3d662ca714046c4a1ea0764d0618793, type: 3}
+    - {fileID: 8300000, guid: 0672eacc65f54d68a4059b72c092f7ad, type: 3}
+    - {fileID: 8300000, guid: 5155f6421003478db9d40ca3f8f8bab3, type: 3}
+    - {fileID: 8300000, guid: 52978d98110248cba903d4e6b4dab9e4, type: 3}
+    - {fileID: 8300000, guid: bda472cacdeb4d95ba189fa6ed2972d7, type: 3}
+  - soundName: "catch_ball"
+    soundId: 7
+    clips:
+    - {fileID: 8300000, guid: 2bd7d3d1f1b747018dc2d4da92e730d4, type: 3}
+    - {fileID: 8300000, guid: 592545f6934b495aae27f8869da8d166, type: 3}
+  - soundName: "dead"
+    soundId: 8
+    clips:
+    - {fileID: 8300000, guid: eab44fd574bc4ccdaa8837cafbbb919e, type: 3}
+    - {fileID: 8300000, guid: fbc5545d7a17470daf2ef7c3e6056f27, type: 3}
+    - {fileID: 8300000, guid: 0aa1a6ed82884be7b4d2b3c86ba1272d, type: 3}
+  - soundName: "goal"
+    soundId: 9
+    clips:
+    - {fileID: 8300000, guid: 0cedc0876ee84bafad0d77daf7bb7b64, type: 3}
+    - {fileID: 8300000, guid: 37c7b7156a2148068f905be74be5c9ea, type: 3}
+    - {fileID: 8300000, guid: 259365f0b7974366b48c6f1b680732fc, type: 3}
+  - soundName: "kick"
+    soundId: 10
+    clips:
+    - {fileID: 8300000, guid: 00a317cfffd34e4d86d0ef633d602abc, type: 3}
+    - {fileID: 8300000, guid: b06044fb8894463682a7607466e59314, type: 3}
+  - soundName: "new_highscore"
+    soundId: 11
+    clips:
+    - {fileID: 8300000, guid: fd8d99956f2b4b69826e002a8bb84b7f, type: 3}
+  - soundName: "start_game_kick"
+    soundId: 12
+    clips:
+    - {fileID: 8300000, guid: f55d496a446349e9a4714ee8173bd0a8, type: 3}
+  - soundName: "crowd_excited"
+    soundId: 13
+    clips:
+    - {fileID: 8300000, guid: 38e8639f342e47a6bfb36a089aacdb8d, type: 3}
+    - {fileID: 8300000, guid: 783bb427f44f452ba787505f0ce4b1d7, type: 3}
+    - {fileID: 8300000, guid: 7a2b0ac123874c349dca0213abcee464, type: 3}
+    - {fileID: 8300000, guid: 6fd22c2655fe417b8cd2120ebb3cd885, type: 3}
+  - soundName: "click"
+    soundId: 14
+    clips:
+    - {fileID: 8300000, guid: 98b1b238af34481292d9976492a3bf0e, type: 3}
+  copySoundsOnValidate: 0
+  overrideExistingIds: 0
+  createListFromEnum: 0
+  defaultSound: {fileID: 8300000, guid: 98b1b238af34481292d9976492a3bf0e, type: 3}

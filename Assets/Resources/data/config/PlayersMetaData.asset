@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eac89b2367824cf4d2f313b37e4dddde, type: 3}
+  m_Name: PlayersMetaData
+  m_EditorClassIdentifier: 
+  names:
+  - Darwin
+  - Sergio
+  - Yolanda
+  - James
+  - Franco
+  - Heyoo
+  - Honalulu
+  - Yessir
+  - Santa
+  - Hanna
+  - Barbara
+  - Golfer
+  - Tim
+  - Hank
+  - Hill
+  - Bobby
+  - Peggy
+  - Mole
+  - Roger
+  - Brady
+  - Tom
+  - Peyton
+  - Manning
+  - Aaron
+  - Rodgers
+  - Roy
+  - Bark
+  - Tarzan
+  - Livid
+  - Joker
+  - Josh
+  - Randy
+  - Robert
+  - Bruce
+  - Lee
+  - Brad
+  - Potty
+  - Mouth
+  - El Toro
+  - Kick
+  - Wendy
+  - Justin
+  - Christopher
+  - Li
+  - Sasuke
+  - Naruto
+  - Sakura
+  - Itachi
+  - Needle
+  - Dancer
+  - Prancer
+  - Weee
+  - Kong
+  - Jog
+  - El Salvador
+  - Morgan
+  - Freeman
+  - Ace
+  - Ventura
+  - Man
+  - Times
+  - Hoggin
+  - Dazz
+  - Zach
+  - Zigg
+  - Kuter
+  - Cutie
+  - Handsome
+  - Dyson
+  - Computer
+  - Mug
+  - Ugly
+  - Face
+  - Puncher
+  - Kickithard
+  - Mike
+  - Matt
+  - Polly
+  - Poke
+  - Tex
+  - Tokyo
+  - Dad
+  - Mom
+  - Brother
+  - Sissy
+  - Drake
+  - Megan
+  - King
+  - Roomba
+  - Ronald
+  - Randola
+  - Weak
+  - Strong
+  - Buff
+  - Duffman
+  - NoName
+  - Dexter
+  - Mandark
+  - Cow
+  - Chicken
+  - Incredible
+  - Pixar
+  - Disney
+  - Walt
+  - Lion
+  - Alajin
+  - Habib
+  - Khabib
+  - Jon
+  - Jones
+  - Stipe
+  - Miocic
+  - Daniel
+  - Cormier
+  - Connor
+  - McGregor
+  - Notorious
+  - Bear
+  - Hairy
+  - Marv
+  - Kevin
+  - Popper
+  - Kool
+  - Boring
+  - Shunsuke
+  - Hamada
+  - Toyota
+  - Honda
+  - Suzuki
+  - Benz
+  - Mercedes
+  - Wallace
+  - Ben
+  - Benjamin
+  - Franklin
+  - George
+  - Washington
+  - Donald
+  - Trump
+  - Uncle
+  - Creepy
+  - Joe
+  - Rogan
+  - Jet
+  - Hodges
+  - Japan
+  - America
+  - China
+  - Brazil
+  - France
+  - United
+  - Kingdom
+  - Umbrella
+  - Door
+  - Handle
+  - Cancer
+  - Libra
+  - Holly
+  - Apex
+  - Preditor
+  - Dreamer
+  - Lennon
+  - Stalin
+  - Adolf
+  - Sports
+  - Magazine
+  - Ak
+  - Fred
+  - Winston
+  - Churchill
+  - Teddy
+  - Purified
+  - Wallet
+  - Desk
+  - Romero
+  - Veer
+  - Basket
+  - Ridley
+  - Stephen
+  - Steppin
+  - Home
+  - Depot
+  - Wall
+  - Clean
+  - Mr. Heavy
+  - earbud
+  - Air
+  - Bull
+  - Hanger
+  - Picture
+  - Steps
+  - Bush Boy
+  - Tree Branch
+  - Name
+  - Naomi
+  - Hanalulu
+  - The Rock
+  - Tub of Glue
+  - Kanye
+  - West
+  outfits:
+  - {fileID: 2100000, guid: a103fd6b097446c7a2aa7a873b0e1c18, type: 2}
+  - {fileID: 2100000, guid: 184471a350f246faa90665d5acc9e9ee, type: 2}
+  - {fileID: 2100000, guid: e4732f205b8b4556bbabb3daad45d8d5, type: 2}
+  - {fileID: 2100000, guid: debbd34495ca4ecd83367325f1f63463, type: 2}
+  - {fileID: 2100000, guid: 69a83845fffb4017bd31480c3cb645c6, type: 2}
+  - {fileID: 2100000, guid: 69b9124c5e944c1cb6f01c7866cc84f1, type: 2}
+  - {fileID: 2100000, guid: f881e0d7fc7a43a78027a7cc57fe24e3, type: 2}

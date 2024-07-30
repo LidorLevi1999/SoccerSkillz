@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd901f68d2dcc0c9462e73d62b7356b1, type: 3}
+  m_Name: "LevelsConfig Good"
+  m_EditorClassIdentifier: 
+  levels:
+  - fieldPlayerSpeedData:
+      followPlayerSpeed: 20
+      followBallSpeed: 30
+      followGroundBallSpeed: 40
+      glitchSpeed: 65
+    goalkeeperSpeedData:
+      followPlayerSpeed: 7
+      followBallSpeed: 5
+      followGroundBallSpeed: 5
+      glitchSpeed: 15
+    weightedGroupsList:
+    - group: {fileID: 11400000, guid: 3ad18a4c8b6343ea8389947f4a0c6080, type: 2}
+      weight: 100
+    weightedAIList:
+    - value: 0
+      weight: 1
+    levelSize: 1340
+    distanceBetweenFormations: 350
+  - fieldPlayerSpeedData:
+      followPlayerSpeed: 25
+      followBallSpeed: 35
+      followGroundBallSpeed: 45
+      glitchSpeed: 70
+    goalkeeperSpeedData:
+      followPlayerSpeed: 15
+      followBallSpeed: 15
+      followGroundBallSpeed: 15
+      glitchSpeed: 30
+    weightedGroupsList:
+    - group: {fileID: 11400000, guid: 9df8d9787ee545e5bbdfae565ccf250f, type: 2}
+      weight: 100
+    weightedAIList:
+    - value: 1
+      weight: 1
+    - value: 2
+      weight: 2
+    levelSize: 1600
+    distanceBetweenFormations: 145
+  - fieldPlayerSpeedData:
+      followPlayerSpeed: 30
+      followBallSpeed: 40
+      followGroundBallSpeed: 39.44
+      glitchSpeed: 77
+    goalkeeperSpeedData:
+      followPlayerSpeed: 30
+      followBallSpeed: 30
+      followGroundBallSpeed: 30
+      glitchSpeed: 50
+    weightedGroupsList:
+    - group: {fileID: 11400000, guid: 9df8d9787ee545e5bbdfae565ccf250f, type: 2}
+      weight: 20
+    - group: {fileID: 11400000, guid: 39ad903f9f834b3080796385cf851059, type: 2}
+      weight: 80
+    weightedAIList:
+    - value: 1
+      weight: 1
+    - value: 2
+      weight: 2
+    - value: 3
+      weight: 2
+    levelSize: 1600
+    distanceBetweenFormations: 140
+  - fieldPlayerSpeedData:
+      followPlayerSpeed: 33
+      followBallSpeed: 44
+      followGroundBallSpeed: 55
+      glitchSpeed: 85
+    goalkeeperSpeedData:
+      followPlayerSpeed: 40
+      followBallSpeed: 40
+      followGroundBallSpeed: 40
+      glitchSpeed: 60
+    weightedGroupsList:
+    - group: {fileID: 11400000, guid: 39ad903f9f834b3080796385cf851059, type: 2}
+      weight: 80
+    - group: {fileID: 11400000, guid: 276b3c84350d4a718c0d94b2c7d7a5c5, type: 2}
+      weight: 20
+    weightedAIList:
+    - value: 1
+      weight: 1
+    - value: 2
+      weight: 2
+    - value: 3
+      weight: 2
+    - value: 4
+      weight: 1
+    levelSize: 1600
+    distanceBetweenFormations: 135
+  - fieldPlayerSpeedData:
+      followPlayerSpeed: 35
+      followBallSpeed: 47
+      followGroundBallSpeed: 60
+      glitchSpeed: 88
+    goalkeeperSpeedData:
+      followPlayerSpeed: 44
+      followBallSpeed: 44
+      followGroundBallSpeed: 44
+      glitchSpeed: 65
+    weightedGroupsList:
+    - group: {fileID: 11400000, guid: 39ad903f9f834b3080796385cf851059, type: 2}
+      weight: 40
+    - group: {fileID: 11400000, guid: 276b3c84350d4a718c0d94b2c7d7a5c5, type: 2}
+      weight: 60
+    weightedAIList:
+    - value: 1
+      weight: 1
+    - value: 2
+      weight: 2
+    - value: 3
+      weight: 2
+    - value: 4
+      weight: 2
+    - value: 5
+      weight: 1
+    levelSize: 1600
+    distanceBetweenFormations: 135
+  - fieldPlayerSpeedData:
+      followPlayerSpeed: 37
+      followBallSpeed: 50
+      followGroundBallSpeed: 63
+      glitchSpeed: 90
+    goalkeeperSpeedData:
+      followPlayerSpeed: 47
+      followBallSpeed: 47
+      followGroundBallSpeed: 47
+      glitchSpeed: 70
+    weightedGroupsList:
+    - group: {fileID: 11400000, guid: 39ad903f9f834b3080796385cf851059, type: 2}
+      weight: 20
+    - group: {fileID: 11400000, guid: 276b3c84350d4a718c0d94b2c7d7a5c5, type: 2}
+      weight: 60
+    - group: {fileID: 11400000, guid: 1edc1a4b38be4c668f2b657b238d92b3, type: 2}
+      weight: 20
+    weightedAIList:
+    - value: 2
+      weight: 2
+    - value: 3
+      weight: 2
+    - value: 4
+      weight: 2
+    - value: 5
+      weight: 2
+    levelSize: 1600
+    distanceBetweenFormations: 135
+  - fieldPlayerSpeedData:
+      followPlayerSpeed: 40
+      followBallSpeed: 53
+      followGroundBallSpeed: 66
+      glitchSpeed: 95
+    goalkeeperSpeedData:
+      followPlayerSpeed: 50
+      followBallSpeed: 50
+      followGroundBallSpeed: 50
+      glitchSpeed: 75
+    weightedGroupsList:
+    - group: {fileID: 11400000, guid: 276b3c84350d4a718c0d94b2c7d7a5c5, type: 2}
+      weight: 50
+    - group: {fileID: 11400000, guid: 1edc1a4b38be4c668f2b657b238d92b3, type: 2}
+      weight: 50
+    weightedAIList:
+    - value: 2
+      weight: 1
+    - value: 3
+      weight: 2
+    - value: 4
+      weight: 3
+    - value: 5
+      weight: 2
+    levelSize: 1600
+    distanceBetweenFormations: 135
+  - fieldPlayerSpeedData:
+      followPlayerSpeed: 43
+      followBallSpeed: 56
+      followGroundBallSpeed: 70
+      glitchSpeed: 100
+    goalkeeperSpeedData:
+      followPlayerSpeed: 53
+      followBallSpeed: 53
+      followGroundBallSpeed: 53
+      glitchSpeed: 79
+    weightedGroupsList:
+    - group: {fileID: 11400000, guid: 276b3c84350d4a718c0d94b2c7d7a5c5, type: 2}
+      weight: 20
+    - group: {fileID: 11400000, guid: 1edc1a4b38be4c668f2b657b238d92b3, type: 2}
+      weight: 60
+    - group: {fileID: 11400000, guid: 2478b4aae02b436a8923c12802933fec, type: 2}
+      weight: 20
+    weightedAIList:
+    - value: 3
+      weight: 2
+    - value: 4
+      weight: 3
+    - value: 5
+      weight: 3
+    levelSize: 1600
+    distanceBetweenFormations: 135
+  - fieldPlayerSpeedData:
+      followPlayerSpeed: 45
+      followBallSpeed: 58
+      followGroundBallSpeed: 73
+      glitchSpeed: 105
+    goalkeeperSpeedData:
+      followPlayerSpeed: 55
+      followBallSpeed: 55
+      followGroundBallSpeed: 55
+      glitchSpeed: 82
+    weightedGroupsList:
+    - group: {fileID: 11400000, guid: 1edc1a4b38be4c668f2b657b238d92b3, type: 2}
+      weight: 60
+    - group: {fileID: 11400000, guid: 2478b4aae02b436a8923c12802933fec, type: 2}
+      weight: 40
+    weightedAIList:
+    - value: 3
+      weight: 1
+    - value: 4
+      weight: 3
+    - value: 5
+      weight: 4
+    levelSize: 1600
+    distanceBetweenFormations: 135
+  defaultPlayerConfig: {fileID: 11400000, guid: 1c1ae51f3f2d4db9a59fb80155e022dc, type: 2}
+  createLevelsOnValidateIfEmpty: 0
+  checkValid: 0

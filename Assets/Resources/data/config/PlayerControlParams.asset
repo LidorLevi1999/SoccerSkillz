@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a1b4a6ce6e2cd6036f7f09341027a47, type: 3}
+  m_Name: "PlayerControlParams"
+  m_EditorClassIdentifier: 
+  startLevel: 0
+  highlightAmount: 5
+  holdBallTime: 5.5
+  lowEnergyTime: 2
+  freeBallSpeedModifier: 0.3
+  forwardSpeed: 65
+  forwardSpeedWithBall: 90
+  lowEnergySpeedModifier: 0.8
+  noEnergySpeedModifier: 0.42
+  dragToSteerTutorialThreshold: 15
+  homePlayerSpeedData:
+    followPlayerSpeed: 20
+    followBallSpeed: 30
+    followGroundBallSpeed: 40
+    glitchSpeed: 65
+  homeGoalkeeperSpeedData:
+    followPlayerSpeed: 40
+    followBallSpeed: 40
+    followGroundBallSpeed: 40
+    glitchSpeed: 65
+  rotationSpeed: 0.4
+  lerpFixTime: 1
+  maxAngle: 60
+  fieldPlayerDetection:
+    distanceToActivate: 180
+    distanceToFollow: 140
+    distanceToFollowBallInAir: 35
+    distanceToGlitch: 25
+    distanceToJump: 65
+    distanceToFollowGroundBall: 140
+  goalkeeperDetection:
+    distanceToActivate: 120
+    distanceToFollow: 90
+    distanceToFollowBallInAir: 40
+    distanceToGlitch: 20
+    distanceToJump: 65
+    distanceToFollowGroundBall: 60

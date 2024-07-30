@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 299e392c3bf5c52c2c19fbdd3654bc63, type: 3}
+  m_Name: "FieldMaterials"
+  m_EditorClassIdentifier: 
+  list:
+  - {fileID: 2100000, guid: b90f90613180462d85e68817f50b1f5e, type: 2}
+  - {fileID: 2100000, guid: b90f90613180462d85e68817f50b1f5e, type: 2}
+  - {fileID: 2100000, guid: b143ad415ae74fa681c739c5afb6128d, type: 2}
+  - {fileID: 2100000, guid: 8b373ba047fd48709fb1c33f7be9c3ac, type: 2}
+  - {fileID: 2100000, guid: b1eb7c86a2924c42a68c0f4ddb307b59, type: 2}
+  - {fileID: 2100000, guid: 9b7318a6830e45219cd35cf1f78ab143, type: 2}

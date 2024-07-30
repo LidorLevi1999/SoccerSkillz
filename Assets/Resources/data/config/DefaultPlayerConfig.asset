@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50014e5f17b026c0393009fa0ffcd8b7, type: 3}
+  m_Name: "DefaultPlayerConfig"
+  m_EditorClassIdentifier: 
+  fieldPlayerSpeedData:
+    followPlayerSpeed: 30
+    followBallSpeed: 40
+    followGroundBallSpeed: 40
+    glitchSpeed: 65
+  goalkeeperSpeedData:
+    followPlayerSpeed: 40
+    followBallSpeed: 40
+    followGroundBallSpeed: 40
+    glitchSpeed: 65

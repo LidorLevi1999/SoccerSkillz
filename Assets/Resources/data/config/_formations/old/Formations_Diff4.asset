@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a46a669f86666f6c0dc640ffed0fd2c, type: 3}
+  m_Name: "Formations_Diff4"
+  m_EditorClassIdentifier: 
+  list:
+  - {fileID: 1790035520051211824, guid: 6acbd5345f4652040ba775d2d32ec071, type: 2}
+  - {fileID: 1790035520051211821, guid: 16adfaa63c6d544449c4b899fd9e989a, type: 2}
+  - {fileID: 1790035520051211822, guid: 981c2a7fc436bb949b8c3d911722aef4, type: 2}
+  - {fileID: 0}
+  - {fileID: 1790035520051211820, guid: c66d2403a6cd67549b2a641ce4114b37, type: 2}
